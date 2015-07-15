@@ -1,0 +1,4 @@
+class prueba1(object):
+
+	def imprimir(self):
+		print("prueba1 import")
